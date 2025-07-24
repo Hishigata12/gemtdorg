@@ -206,7 +206,7 @@ TIER_1 = ['Silver', 'Malachite', 'Asteriated Ruby', 'Jade', 'Gold']
 TIER_2 = ['Silver Knight', 'Vivid Malachite', 'Volcano', 'Gray Jade','Egypt Gold']
 TIER_3 = ['Pink Diamond', 'Uranium 238', 'Bloodstone', 'Quartz', 'Dark Emerald', 'Paraiba Tourmaline',
            'Deep Sea Pearl', 'Chrysoberyl Cat Eye', 'Yellow Sapphire', ]
-TIER_4 = ['Huge Pink Diamond', 'Uranium 235', 'Antique Bloodstone', 'Monkey King Jade' 'Charming Lazurite',
+TIER_4 = ['Huge Pink Diamond', 'Uranium 235', 'Antique Bloodstone', 'Monkey King Jade', 'Charming Lazurite',
             'Emerald Golem', 'Elaborate Carve Tourm', 'Natural Zumurud', 'Red Coral', 'Northern Saber Eye']
 TIER_5 = ['Koh-i-noor Diamond', 'Depleted Kyparium', 'The Crown Prince', 'Diamond Cullinan',
            'Golden Jubilee', 'Sapphire Star Adam', 'Carmen Lucia', 'Star Sapphire']
@@ -288,8 +288,8 @@ TOWER_UPGRADE_MAPPING = {
     "Sapphire Star Adam": ["G6", "P6", "Elaborate Carve Tourm"],
     "Deep Sea Pearl": ["Q4", "D4", "E2"],
     "Chrysoberyl Cat Eye": ["E5", "D4", "Q3"],
-    "Natural Zumurud": ["G5", "D3", "Deap Sea Pearl"],
-    "Red Coral": ["Chrysoberyl Cat Eye", 'Deap Sa Pearl', "E4"],
+    "Natural Zumurud": ["G5", "D3", "Deep Sea Pearl"],
+    "Red Coral": ["Chrysoberyl Cat Eye", 'Deep Sea Pearl', "E4"],
     "Carmen Lucia": ["Red Coral", "E6", "Q6"],
     "Yellow Sapphire": ["B5", "Y4", "R4"],
     "Northern Saber Eye": ["B5", "Yellow Sapphire", "Bloodstone"],
